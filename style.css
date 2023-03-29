@@ -1,0 +1,24 @@
+
+/* body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.container{
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    transform: translate(-50% -50%);
+    font-size: 70px;
+} */
+
+body {
+    text-align: center;
+    font-size: 4em;
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #fff;
+  }
